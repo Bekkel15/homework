@@ -1,0 +1,4 @@
+.benefits-list {
+    list-style-type: none; /* Повністю видаляє маркери */
+    padding-left: 0; /* Додатково прибирає відступ зліва */
+  }
